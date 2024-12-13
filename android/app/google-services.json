@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183684854596",
+    "project_id": "jdnslkfnklafmapp",
+    "storage_bucket": "jdnslkfnklafmapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183684854596:android:d563b6ff5830938ff8dd11",
+        "android_client_info": {
+          "package_name": "com.your.orgname.my_app_name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183684854596-968qedgk34a1qf8sfdg5p347ppg4hm4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.your.orgname.my_app_name",
+            "certificate_hash": "f37abd35173d1e948f6176600ff4b4d55d0ac06c"
+          }
+        },
+        {
+          "client_id": "183684854596-bdi937e1ct9ms0et374pmlq183af0vh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFt_PdyRjziU038cBVPWa040Dj0WljLaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183684854596-bdi937e1ct9ms0et374pmlq183af0vh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
